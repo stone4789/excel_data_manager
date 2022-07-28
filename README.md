@@ -1,1 +1,1 @@
-A script for sorting though large folders of excel spreadsheets, grouping them, cleaning them and converting them to csv for easier data exploration and forecasting.
+A script for sorting though large folders of excel spreadsheets, grouping them, cleaning them and converting them to csv for easier data exploration and forecasting. Confidential information has been removed.
